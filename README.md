@@ -52,16 +52,10 @@ Mid-level fullstack developer with hands-on experience building scalable web app
 
 ## GitHub Stats
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=duong2604&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duong2604&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=duong2604&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duong2604&theme=github_dark" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=duong2604&theme=github-dark&hide_border=true" alt="GitHub Streak" />
